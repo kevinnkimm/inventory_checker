@@ -1,1 +1,1 @@
-# inventory_checker
+# alerts items that are out of stock, to in stock
