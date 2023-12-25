@@ -1,1 +1,1 @@
-# alerts items that are out of stock, to in stock
+# alerts items that are in stock
